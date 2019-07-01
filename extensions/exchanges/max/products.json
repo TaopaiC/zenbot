@@ -1,0 +1,722 @@
+[
+  {
+    "id": "maxtwd",
+    "asset": "MAX",
+    "currency": "TWD",
+    "min_size": 100,
+    "min_total": 250,
+    "increment": "0.01",
+    "asset_increment": "0.01",
+    "label": "MAX/TWD"
+  },
+  {
+    "id": "btctwd",
+    "asset": "BTC",
+    "currency": "TWD",
+    "min_size": 0.0015,
+    "min_total": 250,
+    "increment": "0.1",
+    "asset_increment": "0.00000001",
+    "label": "BTC/TWD"
+  },
+  {
+    "id": "ethtwd",
+    "asset": "ETH",
+    "currency": "TWD",
+    "min_size": 0.05,
+    "min_total": 250,
+    "increment": "0.1",
+    "asset_increment": "0.000001",
+    "label": "ETH/TWD"
+  },
+  {
+    "id": "ltctwd",
+    "asset": "LTC",
+    "currency": "TWD",
+    "min_size": 0.1112,
+    "min_total": 250,
+    "increment": "0.1",
+    "asset_increment": "0.0001",
+    "label": "LTC/TWD"
+  },
+  {
+    "id": "mithtwd",
+    "asset": "MITH",
+    "currency": "TWD",
+    "min_size": 190,
+    "min_total": 250,
+    "increment": "0.001",
+    "asset_increment": "0.01",
+    "label": "MITH/TWD"
+  },
+  {
+    "id": "bchtwd",
+    "asset": "BCH",
+    "currency": "TWD",
+    "min_size": 0.03,
+    "min_total": 250,
+    "increment": "0.1",
+    "asset_increment": "0.000001",
+    "label": "BCH/TWD"
+  },
+  {
+    "id": "usdttwd",
+    "asset": "USDT",
+    "currency": "TWD",
+    "min_size": 8,
+    "min_total": 250,
+    "increment": "0.01",
+    "asset_increment": "0.01",
+    "label": "USDT/TWD"
+  },
+  {
+    "id": "maxbtc",
+    "asset": "MAX",
+    "currency": "BTC",
+    "min_size": 100,
+    "min_total": 0.0015,
+    "increment": "0.00000001",
+    "asset_increment": "0.01",
+    "label": "MAX/BTC"
+  },
+  {
+    "id": "maxeth",
+    "asset": "MAX",
+    "currency": "ETH",
+    "min_size": 100,
+    "min_total": 0.05,
+    "increment": "0.000001",
+    "asset_increment": "0.01",
+    "label": "MAX/ETH"
+  },
+  {
+    "id": "trxtwd",
+    "asset": "TRX",
+    "currency": "TWD",
+    "min_size": 340,
+    "min_total": 250,
+    "increment": "0.0001",
+    "asset_increment": "0.1",
+    "label": "TRX/TWD"
+  },
+  {
+    "id": "ethbtc",
+    "asset": "ETH",
+    "currency": "BTC",
+    "min_size": 0.05,
+    "min_total": 0.0015,
+    "increment": "0.000001",
+    "asset_increment": "0.0001",
+    "label": "ETH/BTC"
+  },
+  {
+    "id": "trxeth",
+    "asset": "TRX",
+    "currency": "ETH",
+    "min_size": 340,
+    "min_total": 0.05,
+    "increment": "0.00000001",
+    "asset_increment": "0.1",
+    "label": "TRX/ETH"
+  },
+  {
+    "id": "maxusdt",
+    "asset": "MAX",
+    "currency": "USDT",
+    "min_size": 100,
+    "min_total": 8,
+    "increment": "0.001",
+    "asset_increment": "0.01",
+    "label": "MAX/USDT"
+  },
+  {
+    "id": "btcusdt",
+    "asset": "BTC",
+    "currency": "USDT",
+    "min_size": 0.0015,
+    "min_total": 8,
+    "increment": "0.01",
+    "asset_increment": "0.000001",
+    "label": "BTC/USDT"
+  },
+  {
+    "id": "ethusdt",
+    "asset": "ETH",
+    "currency": "USDT",
+    "min_size": 0.05,
+    "min_total": 8,
+    "increment": "0.01",
+    "asset_increment": "0.00001",
+    "label": "ETH/USDT"
+  },
+  {
+    "id": "bchusdt",
+    "asset": "BCH",
+    "currency": "USDT",
+    "min_size": 0.03,
+    "min_total": 8,
+    "increment": "0.01",
+    "asset_increment": "0.00001",
+    "label": "BCH/USDT"
+  },
+  {
+    "id": "ltcusdt",
+    "asset": "LTC",
+    "currency": "USDT",
+    "min_size": 0.1112,
+    "min_total": 8,
+    "increment": "0.01",
+    "asset_increment": "0.00001",
+    "label": "LTC/USDT"
+  },
+  {
+    "id": "mithbtc",
+    "asset": "MITH",
+    "currency": "BTC",
+    "min_size": 190,
+    "min_total": 0.0015,
+    "increment": "0.00000001",
+    "asset_increment": "0.01",
+    "label": "MITH/BTC"
+  },
+  {
+    "id": "mithusdt",
+    "asset": "MITH",
+    "currency": "USDT",
+    "min_size": 190,
+    "min_total": 8,
+    "increment": "0.00001",
+    "asset_increment": "0.01",
+    "label": "MITH/USDT"
+  },
+  {
+    "id": "cccxbtc",
+    "asset": "CCCX",
+    "currency": "BTC",
+    "min_size": 2100,
+    "min_total": 0.0015,
+    "increment": "0.00000001",
+    "asset_increment": "0.1",
+    "label": "CCCX/BTC"
+  },
+  {
+    "id": "cccxeth",
+    "asset": "CCCX",
+    "currency": "ETH",
+    "min_size": 2100,
+    "min_total": 0.05,
+    "increment": "0.00000001",
+    "asset_increment": "0.1",
+    "label": "CCCX/ETH"
+  },
+  {
+    "id": "cccxtwd",
+    "asset": "CCCX",
+    "currency": "TWD",
+    "min_size": 2100,
+    "min_total": 250,
+    "increment": "0.0001",
+    "asset_increment": "0.1",
+    "label": "CCCX/TWD"
+  },
+  {
+    "id": "cccxusdt",
+    "asset": "CCCX",
+    "currency": "USDT",
+    "min_size": 2100,
+    "min_total": 8,
+    "increment": "0.000001",
+    "asset_increment": "0.1",
+    "label": "CCCX/USDT"
+  },
+  {
+    "id": "eosbtc",
+    "asset": "EOS",
+    "currency": "BTC",
+    "min_size": 1.7,
+    "min_total": 0.0015,
+    "increment": "0.00000001",
+    "asset_increment": "0.001",
+    "label": "EOS/BTC"
+  },
+  {
+    "id": "eoseth",
+    "asset": "EOS",
+    "currency": "ETH",
+    "min_size": 1.7,
+    "min_total": 0.05,
+    "increment": "0.000001",
+    "asset_increment": "0.001",
+    "label": "EOS/ETH"
+  },
+  {
+    "id": "eostwd",
+    "asset": "EOS",
+    "currency": "TWD",
+    "min_size": 1.7,
+    "min_total": 250,
+    "increment": "0.001",
+    "asset_increment": "0.001",
+    "label": "EOS/TWD"
+  },
+  {
+    "id": "eosusdt",
+    "asset": "EOS",
+    "currency": "USDT",
+    "min_size": 1.7,
+    "min_total": 8,
+    "increment": "0.00001",
+    "asset_increment": "0.001",
+    "label": "EOS/USDT"
+  },
+  {
+    "id": "batbtc",
+    "asset": "BAT",
+    "currency": "BTC",
+    "min_size": 20,
+    "min_total": 0.0015,
+    "increment": "0.00000001",
+    "asset_increment": "0.01",
+    "label": "BAT/BTC"
+  },
+  {
+    "id": "bateth",
+    "asset": "BAT",
+    "currency": "ETH",
+    "min_size": 20,
+    "min_total": 0.05,
+    "increment": "0.000001",
+    "asset_increment": "0.01",
+    "label": "BAT/ETH"
+  },
+  {
+    "id": "battwd",
+    "asset": "BAT",
+    "currency": "TWD",
+    "min_size": 20,
+    "min_total": 250,
+    "increment": "0.001",
+    "asset_increment": "0.01",
+    "label": "BAT/TWD"
+  },
+  {
+    "id": "batusdt",
+    "asset": "BAT",
+    "currency": "USDT",
+    "min_size": 20,
+    "min_total": 8,
+    "increment": "0.00001",
+    "asset_increment": "0.01",
+    "label": "BAT/USDT"
+  },
+  {
+    "id": "zrxbtc",
+    "asset": "ZRX",
+    "currency": "BTC",
+    "min_size": 30,
+    "min_total": 0.0015,
+    "increment": "0.00000001",
+    "asset_increment": "0.01",
+    "label": "ZRX/BTC"
+  },
+  {
+    "id": "zrxeth",
+    "asset": "ZRX",
+    "currency": "ETH",
+    "min_size": 30,
+    "min_total": 0.05,
+    "increment": "0.000001",
+    "asset_increment": "0.01",
+    "label": "ZRX/ETH"
+  },
+  {
+    "id": "zrxtwd",
+    "asset": "ZRX",
+    "currency": "TWD",
+    "min_size": 30,
+    "min_total": 250,
+    "increment": "0.01",
+    "asset_increment": "0.01",
+    "label": "ZRX/TWD"
+  },
+  {
+    "id": "zrxusdt",
+    "asset": "ZRX",
+    "currency": "USDT",
+    "min_size": 30,
+    "min_total": 8,
+    "increment": "0.0001",
+    "asset_increment": "0.01",
+    "label": "ZRX/USDT"
+  },
+  {
+    "id": "gntbtc",
+    "asset": "GNT",
+    "currency": "BTC",
+    "min_size": 110,
+    "min_total": 0.0015,
+    "increment": "0.00000001",
+    "asset_increment": "0.01",
+    "label": "GNT/BTC"
+  },
+  {
+    "id": "gnteth",
+    "asset": "GNT",
+    "currency": "ETH",
+    "min_size": 110,
+    "min_total": 0.05,
+    "increment": "0.000001",
+    "asset_increment": "0.01",
+    "label": "GNT/ETH"
+  },
+  {
+    "id": "gnttwd",
+    "asset": "GNT",
+    "currency": "TWD",
+    "min_size": 110,
+    "min_total": 250,
+    "increment": "0.001",
+    "asset_increment": "0.01",
+    "label": "GNT/TWD"
+  },
+  {
+    "id": "gntusdt",
+    "asset": "GNT",
+    "currency": "USDT",
+    "min_size": 110,
+    "min_total": 8,
+    "increment": "0.00001",
+    "asset_increment": "0.01",
+    "label": "GNT/USDT"
+  },
+  {
+    "id": "omgbtc",
+    "asset": "OMG",
+    "currency": "BTC",
+    "min_size": 5,
+    "min_total": 0.0015,
+    "increment": "0.00000001",
+    "asset_increment": "0.001",
+    "label": "OMG/BTC"
+  },
+  {
+    "id": "omgeth",
+    "asset": "OMG",
+    "currency": "ETH",
+    "min_size": 5,
+    "min_total": 0.05,
+    "increment": "0.000001",
+    "asset_increment": "0.001",
+    "label": "OMG/ETH"
+  },
+  {
+    "id": "omgtwd",
+    "asset": "OMG",
+    "currency": "TWD",
+    "min_size": 5,
+    "min_total": 250,
+    "increment": "0.001",
+    "asset_increment": "0.001",
+    "label": "OMG/TWD"
+  },
+  {
+    "id": "omgusdt",
+    "asset": "OMG",
+    "currency": "USDT",
+    "min_size": 5,
+    "min_total": 8,
+    "increment": "0.00001",
+    "asset_increment": "0.001",
+    "label": "OMG/USDT"
+  },
+  {
+    "id": "kncbtc",
+    "asset": "KNC",
+    "currency": "BTC",
+    "min_size": 36,
+    "min_total": 0.0015,
+    "increment": "0.00000001",
+    "asset_increment": "0.01",
+    "label": "KNC/BTC"
+  },
+  {
+    "id": "knceth",
+    "asset": "KNC",
+    "currency": "ETH",
+    "min_size": 36,
+    "min_total": 0.05,
+    "increment": "0.000001",
+    "asset_increment": "0.01",
+    "label": "KNC/ETH"
+  },
+  {
+    "id": "knctwd",
+    "asset": "KNC",
+    "currency": "TWD",
+    "min_size": 36,
+    "min_total": 250,
+    "increment": "0.01",
+    "asset_increment": "0.01",
+    "label": "KNC/TWD"
+  },
+  {
+    "id": "kncusdt",
+    "asset": "KNC",
+    "currency": "USDT",
+    "min_size": 36,
+    "min_total": 8,
+    "increment": "0.0001",
+    "asset_increment": "0.01",
+    "label": "KNC/USDT"
+  },
+  {
+    "id": "xrptwd",
+    "asset": "XRP",
+    "currency": "TWD",
+    "min_size": 27,
+    "min_total": 250,
+    "increment": "0.001",
+    "asset_increment": "0.01",
+    "label": "XRP/TWD"
+  },
+  {
+    "id": "xrpusdt",
+    "asset": "XRP",
+    "currency": "USDT",
+    "min_size": 27,
+    "min_total": 8,
+    "increment": "0.00001",
+    "asset_increment": "0.01",
+    "label": "XRP/USDT"
+  },
+  {
+    "id": "trxbtc",
+    "asset": "TRX",
+    "currency": "BTC",
+    "min_size": 340,
+    "min_total": 0.0015,
+    "increment": "0.00000001",
+    "asset_increment": "0.1",
+    "label": "TRX/BTC"
+  },
+  {
+    "id": "mitheth",
+    "asset": "MITH",
+    "currency": "ETH",
+    "min_size": 190,
+    "min_total": 0.05,
+    "increment": "0.000001",
+    "asset_increment": "0.01",
+    "label": "MITH/ETH"
+  },
+  {
+    "id": "ltcmax",
+    "asset": "LTC",
+    "currency": "MAX",
+    "min_size": 0.1112,
+    "min_total": 100,
+    "increment": "0.01",
+    "asset_increment": "0.00001",
+    "label": "LTC/MAX"
+  },
+  {
+    "id": "bchmax",
+    "asset": "BCH",
+    "currency": "MAX",
+    "min_size": 0.03,
+    "min_total": 100,
+    "increment": "0.01",
+    "asset_increment": "0.00001",
+    "label": "BCH/MAX"
+  },
+  {
+    "id": "mithmax",
+    "asset": "MITH",
+    "currency": "MAX",
+    "min_size": 190,
+    "min_total": 100,
+    "increment": "0.00001",
+    "asset_increment": "0.01",
+    "label": "MITH/MAX"
+  },
+  {
+    "id": "trxusdt",
+    "asset": "TRX",
+    "currency": "USDT",
+    "min_size": 340,
+    "min_total": 8,
+    "increment": "0.000001",
+    "asset_increment": "0.1",
+    "label": "TRX/USDT"
+  },
+  {
+    "id": "trxmax",
+    "asset": "TRX",
+    "currency": "MAX",
+    "min_size": 340,
+    "min_total": 100,
+    "increment": "0.000001",
+    "asset_increment": "0.1",
+    "label": "TRX/MAX"
+  },
+  {
+    "id": "cccxmax",
+    "asset": "CCCX",
+    "currency": "MAX",
+    "min_size": 2100,
+    "min_total": 100,
+    "increment": "0.000001",
+    "asset_increment": "0.1",
+    "label": "CCCX/MAX"
+  },
+  {
+    "id": "eosmax",
+    "asset": "EOS",
+    "currency": "MAX",
+    "min_size": 1.7,
+    "min_total": 100,
+    "increment": "0.00001",
+    "asset_increment": "0.001",
+    "label": "EOS/MAX"
+  },
+  {
+    "id": "batmax",
+    "asset": "BAT",
+    "currency": "MAX",
+    "min_size": 20,
+    "min_total": 100,
+    "increment": "0.00001",
+    "asset_increment": "0.01",
+    "label": "BAT/MAX"
+  },
+  {
+    "id": "zrxmax",
+    "asset": "ZRX",
+    "currency": "MAX",
+    "min_size": 30,
+    "min_total": 100,
+    "increment": "0.0001",
+    "asset_increment": "0.01",
+    "label": "ZRX/MAX"
+  },
+  {
+    "id": "gntmax",
+    "asset": "GNT",
+    "currency": "MAX",
+    "min_size": 110,
+    "min_total": 100,
+    "increment": "0.00001",
+    "asset_increment": "0.01",
+    "label": "GNT/MAX"
+  },
+  {
+    "id": "omgmax",
+    "asset": "OMG",
+    "currency": "MAX",
+    "min_size": 5,
+    "min_total": 100,
+    "increment": "0.00001",
+    "asset_increment": "0.001",
+    "label": "OMG/MAX"
+  },
+  {
+    "id": "kncmax",
+    "asset": "KNC",
+    "currency": "MAX",
+    "min_size": 36,
+    "min_total": 100,
+    "increment": "0.0001",
+    "asset_increment": "0.01",
+    "label": "KNC/MAX"
+  },
+  {
+    "id": "xrpmax",
+    "asset": "XRP",
+    "currency": "MAX",
+    "min_size": 27,
+    "min_total": 100,
+    "increment": "0.00001",
+    "asset_increment": "0.01",
+    "label": "XRP/MAX"
+  },
+  {
+    "id": "fmfmax",
+    "asset": "FMF",
+    "currency": "MAX",
+    "min_size": 8000,
+    "min_total": 100,
+    "increment": "0.000001",
+    "asset_increment": "0.1",
+    "label": "FMF/MAX"
+  },
+  {
+    "id": "fmfeth",
+    "asset": "FMF",
+    "currency": "ETH",
+    "min_size": 8000,
+    "min_total": 0.05,
+    "increment": "0.00000001",
+    "asset_increment": "0.1",
+    "label": "FMF/ETH"
+  },
+  {
+    "id": "seelebtc",
+    "asset": "SEELE",
+    "currency": "BTC",
+    "min_size": 1180,
+    "min_total": 0.0015,
+    "increment": "0.00000001",
+    "asset_increment": "0.01",
+    "label": "SEELE/BTC"
+  },
+  {
+    "id": "seeleusdt",
+    "asset": "SEELE",
+    "currency": "USDT",
+    "min_size": 1180,
+    "min_total": 8,
+    "increment": "0.000001",
+    "asset_increment": "0.01",
+    "label": "SEELE/USDT"
+  },
+  {
+    "id": "seelemax",
+    "asset": "SEELE",
+    "currency": "MAX",
+    "min_size": 1180,
+    "min_total": 100,
+    "increment": "0.000001",
+    "asset_increment": "0.01",
+    "label": "SEELE/MAX"
+  },
+  {
+    "id": "bcnttwd",
+    "asset": "BCNT",
+    "currency": "TWD",
+    "min_size": 300,
+    "min_total": 250,
+    "increment": "0.0001",
+    "asset_increment": "0.1",
+    "label": "BCNT/TWD"
+  },
+  {
+    "id": "bcntusdt",
+    "asset": "BCNT",
+    "currency": "USDT",
+    "min_size": 300,
+    "min_total": 8,
+    "increment": "0.00001",
+    "asset_increment": "0.1",
+    "label": "BCNT/USDT"
+  },
+  {
+    "id": "bcntmax",
+    "asset": "BCNT",
+    "currency": "MAX",
+    "min_size": 300,
+    "min_total": 100,
+    "increment": "0.000001",
+    "asset_increment": "0.1",
+    "label": "BCNT/MAX"
+  }
+]
