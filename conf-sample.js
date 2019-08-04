@@ -107,6 +107,11 @@ c.therock = {}
 c.therock.key = 'YOUR-API-KEY'
 c.therock.secret = 'YOUR-SECRET'
 
+// to enable max trading, enter your API credentials:
+c.max = {}
+c.max.key = 'YOUR-API-KEY'
+c.max.secret = 'YOUR-SECRET'
+
 // Optional stop-order triggers:
 
 // sell if price drops below this % of bought price (0 to disable)
